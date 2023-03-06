@@ -1,0 +1,130 @@
+[
+  {
+    "question": "'p color:blue;'     Nedostiga:",
+    "a": "()",
+    "b": "{}",
+    "c": ".",
+    "d": "[]",
+    "correct": "b"
+  },
+  {
+    "question": "<h3 class='naslov-3'>Nekoj naslov</h2>  selektiraj go id:",
+    "a": ".naslov-3",
+    "b": "#naslov-3",
+    "c": ".h3",
+    "d": "h3",
+    "correct": "b"
+  },
+  {
+    "question": "Sto e padding?",
+    "a": "Prostor pomegu element i drug element\n",
+    "b": "Prostor pomegu sodrzinata na elementot i borderot",
+    "c": "Prostor pomegu linii na tekstot",
+    "d": "Prostor pomegu dva zbora vo elementot.",
+    "correct": "b"
+  },
+  {
+    "question": "Sto e CSS margin?",
+    "a": "Prostor pomegu elementot i sosednite elementi.",
+    "b": "Prostor pomegu sodrzina i borderot",
+    "c": "Prostor pomegu border i centar na elementot",
+    "d": "Prostor pomegu dva isti elementi",
+    "correct": "a"
+  },
+  {
+    "question": "Padding na link 20px od levo i desno i 10px gore i dolu?",
+    "a": "a{padding: 20px 10px;}",
+    "b": "a{padding: 20px 20px 10px 10px;}",
+    "c": "a{padding: 10px 20px;}",
+    "d": "a{padding 10px 20px;}",
+    "correct": "c"
+  },
+  {
+    "question": "Centriraj levo-desno so margin element:",
+    "a": "div{margin: 0 auto;}",
+    "b": "div{margin: auto 0;}",
+    "c": "div{margin: 0 50%;}",
+    "d": "div{margin: 50px 50px;}",
+    "correct": "a"
+  },
+  {
+    "question": "Koja boja na tekst e po default i kolku e po default font-size?",
+    "a": "Black, 10px",
+    "b": "White, 16px",
+    "c": "Black, 12px",
+    "d": "Black, 16px",
+    "correct": "d"
+  },
+  {
+    "question": "Kolku e po default 1rem?",
+    "a": "10px",
+    "b": "12px",
+    "c": "14px",
+    "d": "16px",
+    "correct": "d"
+  },
+  {
+    "question": "Kolku e po default line-height?",
+    "a": "1",
+    "b": "1.5",
+    "c": "1.8",
+    "d": "1px",
+    "correct": "a"
+  },
+  {
+    "question": "Definiraj 1rem=10px;",
+    "a": "body{rem:10px}",
+    "b": "html{font-size:10px}",
+    "c": "head{font-weight:10px}",
+    "d": "*{font-family:10px}",
+    "correct": "b"
+  },
+  {
+    "question": "Koja e HEX css boja?",
+    "a": "p{color:red;}",
+    "b": "p{color:#123456;}",
+    "c": "p{color:rgb(124,13,24);}",
+    "d": "p{color:#(red,0,0);}",
+    "correct": "b"
+  },
+  {
+    "question": "Koi vrednosti se stavaat vo rgba ",
+    "a": "(0-100%,0-100%,0-100%,0-1)",
+    "b": "(0-100%,0-360,0-360,0-100%)",
+    "c": "(0-ff,0-ff,0-ff,0-1)",
+    "d": "(0-255,0-255,0-255,0-1)",
+    "correct": "d"
+  },
+  {
+    "question": "Koja boja e rgb(0,0,0), a koja rgba(0,0,0,0)",
+    "a": "bela,transparentna",
+    "b": "bela, bela",
+    "c": "crna, crna",
+    "d": "crna, transparentna",
+    "correct": "d"
+  },
+  {
+    "question": "Kakvi nijansi na boja se dobivaat so #000, #111, #222, ...#eee, #fff",
+    "a": "pomegu crvena, sina",
+    "b": "pomegu siva bela",
+    "c": "pomegu crna i bela",
+    "d": "pomegu zelena i zolta",
+    "correct": "c"
+  },
+  {
+    "question": "Sto e tocno?",
+    "a": "div{background-image:linear-gradient(red,yellow);}",
+    "b": "div{background-color:linear-gradient(red,yellow);}",
+    "c": "div{background-image:gradient(red,yellow);}",
+    "d": "div{background-image:linear-gradient(red yellow);}",
+    "correct": "a"
+  },
+  {
+    "question": "Stavi na div so klasa container pozadinska slika slika.jpg koja e vo folder img.",
+    "a": ".container{background-image:src('slika.jpg');}",
+    "b": ".container{background-img:url('img/slika.jpg');}",
+    "c": ".container{background-image:url('img/slika.jpg');}",
+    "d": ".container{background-image:src('img/slika.jpg');}",
+    "correct": "c"
+  }
+]
